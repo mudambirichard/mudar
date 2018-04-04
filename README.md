@@ -16,3 +16,8 @@ Put that folder in the sublime txt
 ## Addig the nav bar
 
 open up your sublime txt go to mdb and search for navbar copy and paste it in yr sublime text under the body section then save it 
+
+## main content 
+
+create div and then add the content 
+
