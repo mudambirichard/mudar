@@ -1,1 +1,12 @@
 /* Your custom styles */
+
+
+.card img{
+	height: 250px;
+
+
+}
+
+.container li{
+	list-style: none;
+}
